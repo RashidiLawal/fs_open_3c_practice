@@ -3,7 +3,7 @@ Content-Type: application/json
 
 
 {
-    "content": "VS Code REST client is pretty good",
+    "content": "VS",
 
     "important": false
 }
